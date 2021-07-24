@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Waffle Bot</h1>
+  Waffle Bot
 <img width="256" height="256" src="https://i.imgur.com/20YLhN9.png">
 </p>
 
